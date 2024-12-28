@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Log File to S3</title>
+    <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+    <style>
+        body {
+            background-color:#ccffff;
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center; /* Horizontally center */
+            align-items: center;    /* Vertically center */
+        }
+        /* Example content */
+        .content {
+            text-align: center;
+            background-color: lightgray;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 10%;
+        }
+        .header {
+            font-weight: bold;
+            font-size: 40px;
+            color: #785894;
+        }
+    </style>
+</head>
+<body class="content">
+    <div>
+        <div class="header">Smart Device Log Uploader</div>
+        <div><h1>Upload a Log File to S3</h1></div>
+        <div>
+            <form id="uploadForm">
+                <input type="file" id="fileInput" accept=".log" />
+                <button type="button" onclick="uploadFile()">Upload</button>
+            </form>
+        </div>
+    </div>
+
+    <p id="status"></p>
+
+    <!-- AWS SDK -->
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.283.1.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

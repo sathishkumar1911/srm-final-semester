@@ -1,0 +1,930 @@
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-01 00:01:04", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-01 00:39:11", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-01 03:04:50", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-01 03:05:25", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-01 04:16:27", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-01 04:17:46", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-01 04:40:48", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-01 05:10:11", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-01 05:41:07", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-01 05:51:41", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-01 06:47:43", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-01 09:21:02", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-01 10:27:09", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-01 12:48:03", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-01 13:08:37", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-01 13:48:22", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-01 15:11:30", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-01 15:37:05", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-01 15:44:01", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-01 16:00:38", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-01 18:29:47", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-01 20:25:25", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-01 20:30:09", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-01 21:15:46", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-01 22:07:45", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-01 22:08:44", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-01 22:14:16", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-01 23:02:31", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-01 23:24:55", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-01 23:35:45", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-01 23:58:42", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-02 00:05:48", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-02 01:44:12", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-02 05:39:16", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-02 06:49:16", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-02 06:54:41", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-02 08:00:22", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-02 08:51:43", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-02 09:32:44", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-02 11:43:35", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-02 13:06:10", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-02 13:46:37", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-02 14:57:36", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-02 15:07:07", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-02 15:17:17", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-02 16:57:00", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-02 17:39:36", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-02 18:17:34", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-02 18:31:50", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-02 18:38:43", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-02 18:49:51", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-02 19:32:31", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-02 20:35:52", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-02 20:38:50", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-02 21:30:13", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-02 21:33:22", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-02 22:12:30", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-02 22:28:23", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-02 22:34:54", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-02 22:44:09", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-02 22:45:48", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-02 23:57:39", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-03 00:13:45", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-03 03:51:18", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-03 04:01:25", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-03 06:58:40", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-03 08:53:02", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-03 09:15:10", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-03 13:40:46", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-03 16:21:30", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-03 16:41:10", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-03 16:57:57", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-03 17:08:22", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-03 17:52:27", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-03 17:55:03", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-03 18:58:40", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-03 21:14:31", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-03 21:17:11", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-03 21:22:54", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-03 21:24:52", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-03 21:55:35", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-03 23:03:31", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-03 23:20:51", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-03 23:24:19", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-03 23:30:51", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-03 23:31:20", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-03 23:42:25", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-03 23:52:42", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-03 23:55:51", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-03 23:56:19", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-03 23:56:56", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-03 23:59:37", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-03 23:59:52", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-04 00:31:23", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-04 02:35:03", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-04 03:32:28", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-04 04:31:01", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-04 06:10:06", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-04 07:01:19", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-04 07:07:50", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-04 08:35:24", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-04 08:49:27", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-04 09:29:13", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-04 10:17:53", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-04 12:09:46", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-04 13:34:20", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-04 14:04:25", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-04 14:12:36", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-04 14:45:41", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-04 15:18:46", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-04 15:19:22", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-04 16:17:11", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-04 16:43:48", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-04 18:52:30", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-04 19:00:26", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-04 19:42:23", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-04 20:31:18", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-04 20:33:09", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-04 22:53:20", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-04 23:08:11", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-04 23:14:38", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-04 23:21:39", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-04 23:43:46", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-04 23:57:13", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-05 01:33:36", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-05 01:40:52", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-05 01:44:35", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-05 01:58:34", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-05 02:25:42", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-05 09:01:01", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-05 11:19:33", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-05 12:43:05", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-05 12:57:00", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-05 13:11:48", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-05 13:17:44", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-05 16:41:23", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-05 16:46:17", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-05 17:07:19", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-05 19:35:59", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-05 20:08:48", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-05 20:39:04", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-05 21:13:28", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-05 21:47:17", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-05 21:50:00", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-05 21:52:53", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-05 22:07:01", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-05 22:24:19", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-05 22:39:47", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-05 22:58:13", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-05 23:07:26", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-05 23:07:38", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-05 23:09:07", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-05 23:09:58", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-05 23:23:38", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-05 23:51:18", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-06 00:05:53", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-06 02:26:10", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-06 03:37:22", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-06 05:22:10", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-06 06:44:22", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-06 09:20:29", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-06 09:30:02", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-06 11:17:10", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-06 11:38:42", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-06 12:26:57", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-06 14:08:26", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-06 14:11:48", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-06 15:17:08", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-06 16:20:37", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-06 16:34:43", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-06 18:34:47", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-06 19:48:30", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-06 21:19:38", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-06 21:34:09", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-06 21:39:32", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-06 21:41:58", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-06 21:53:54", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-06 22:36:26", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-06 22:45:35", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-06 23:01:27", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-06 23:01:50", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-06 23:31:52", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-06 23:35:08", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-06 23:44:20", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-06 23:46:05", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-06 23:47:51", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-07 00:11:21", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-07 02:19:54", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-07 05:59:37", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-07 06:05:11", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-07 06:07:29", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-07 08:02:13", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-07 10:00:27", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-07 10:14:50", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-07 12:10:01", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-07 12:55:44", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-07 15:03:13", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-07 15:21:48", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-07 15:23:21", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-07 16:03:06", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-07 16:51:56", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-07 19:45:13", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-07 20:49:52", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-07 22:02:23", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-07 22:08:49", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-07 22:10:32", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-07 22:27:42", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-07 22:54:49", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-07 23:00:38", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-07 23:14:09", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-07 23:28:50", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-07 23:37:31", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-07 23:46:41", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-07 23:51:49", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-07 23:52:54", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-07 23:55:59", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-07 23:59:04", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-08 02:18:15", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-08 03:43:36", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-08 04:12:31", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-08 06:02:03", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-08 07:43:45", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-08 09:43:03", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-08 10:58:38", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-08 11:14:17", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-08 12:48:07", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-08 16:39:01", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-08 16:55:57", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-08 16:56:54", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-08 18:07:33", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-08 18:27:23", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-08 19:09:38", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-08 19:46:00", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-08 20:00:40", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-08 21:25:56", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-08 21:32:24", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-08 21:39:15", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-08 21:45:39", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-08 21:57:54", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-08 22:33:25", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-08 23:13:28", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-08 23:27:06", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-08 23:31:26", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-08 23:43:36", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-08 23:51:36", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-08 23:51:36", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-08 23:54:30", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-08 23:57:16", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-09 02:15:00", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 02:34:43", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-09 05:56:23", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-09 07:44:31", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-09 09:44:51", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-09 12:07:20", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-09 12:57:59", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-09 14:39:29", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-09 15:28:34", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-09 15:56:13", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-09 16:31:56", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-09 17:23:23", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-09 18:28:22", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-09 18:31:43", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-09 18:36:55", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-09 18:53:09", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-09 21:11:02", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-09 21:59:27", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:38:58", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-09 23:44:19", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-09 23:46:10", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-09 23:46:23", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:46:53", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:47:32", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:50:17", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-09 23:51:31", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-09 23:53:45", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:55:53", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:57:38", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:58:57", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-09 23:59:36", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-10 02:19:40", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-10 03:43:10", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-10 05:53:05", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-10 06:52:54", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-10 08:08:07", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-10 09:06:43", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-10 09:26:30", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-10 09:40:57", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-10 10:06:14", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-10 10:51:41", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-10 11:00:32", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-10 12:21:54", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-10 14:23:02", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-10 14:42:43", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-10 15:08:12", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-10 15:24:29", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-10 16:00:46", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-10 16:41:24", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-10 16:46:27", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-10 19:15:15", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-10 19:18:50", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-10 19:30:41", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-10 19:44:16", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-10 19:58:19", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-10 22:29:23", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-10 22:49:30", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-10 23:06:10", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-10 23:59:08", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-10 23:59:53", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-10 23:59:57", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-10 23:59:58", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-11 03:22:10", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-11 05:41:39", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-11 06:54:52", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-11 07:32:21", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-11 08:08:01", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-11 08:37:40", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-11 09:28:48", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-11 09:35:14", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-11 09:57:43", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-11 12:01:09", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-11 12:42:13", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-11 14:27:33", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-11 16:25:37", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-11 16:36:43", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-11 17:50:11", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-11 19:07:18", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-11 19:12:12", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-11 19:37:33", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-11 19:42:10", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-11 19:59:45", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-11 20:06:54", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-11 20:12:47", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-11 21:43:43", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-11 21:47:33", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-11 22:44:52", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-11 22:49:50", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-11 23:22:31", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-11 23:34:37", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-11 23:38:40", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-11 23:49:29", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-11 23:56:32", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-12 00:00:51", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-12 01:12:25", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-12 02:02:19", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-12 04:53:23", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-12 05:56:15", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-12 06:56:32", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-12 09:00:41", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-12 09:08:33", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-12 10:34:42", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-12 14:12:13", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-12 14:14:14", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-12 14:28:20", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-12 14:50:53", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-12 15:25:58", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-12 15:35:13", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-12 15:54:51", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-12 16:20:30", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-12 16:43:17", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-12 19:19:12", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-12 19:35:21", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-12 21:06:15", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-12 21:32:17", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-12 21:44:58", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-12 21:46:45", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-12 22:09:04", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-12 22:09:13", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-12 22:53:46", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-12 23:31:33", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-12 23:39:46", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-12 23:49:12", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-12 23:55:26", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-13 03:47:11", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-13 04:22:15", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-13 05:27:39", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-13 06:37:29", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-13 07:33:31", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-13 08:47:27", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-13 09:24:34", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-13 10:49:06", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-13 11:20:25", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-13 13:29:12", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-13 13:50:30", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-13 15:18:01", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-13 15:25:26", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-13 17:41:06", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-13 18:22:15", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-13 19:29:38", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-13 19:32:47", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-13 20:11:11", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-13 20:25:34", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-13 20:28:13", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-13 20:48:36", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-13 20:50:44", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-13 21:16:19", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-13 21:24:39", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-13 21:33:21", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-13 21:57:05", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-13 22:21:57", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-13 23:02:27", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-13 23:13:23", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-13 23:30:58", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-13 23:32:11", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-14 04:35:22", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-14 05:29:43", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-14 06:53:38", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-14 07:13:30", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-14 08:11:14", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-14 12:49:10", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-14 13:15:22", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-14 13:17:41", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-14 15:53:08", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-14 16:27:27", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-14 16:30:49", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-14 16:41:35", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-14 17:17:11", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-14 17:48:06", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-14 18:07:59", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-14 18:52:45", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-14 19:17:42", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-14 19:38:47", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-14 19:51:58", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-14 19:58:40", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-14 20:10:13", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-14 21:42:46", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-14 22:03:22", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-14 22:32:15", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-14 23:24:02", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-14 23:47:50", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-14 23:53:21", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-14 23:54:15", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-14 23:58:24", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-14 23:58:36", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-14 23:59:24", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-15 01:45:46", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-15 03:34:49", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-15 08:39:21", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-15 08:52:05", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-15 09:01:31", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-15 09:51:03", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-15 11:13:24", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-15 11:36:41", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-15 13:59:16", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-15 15:05:00", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-15 15:37:27", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-15 16:57:13", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-15 17:30:26", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-15 17:46:54", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-15 18:29:36", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-15 18:42:44", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-15 19:17:27", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-15 19:24:26", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-15 20:04:00", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-15 21:16:36", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-15 22:07:54", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-15 22:20:11", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-15 23:21:13", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-15 23:26:10", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-15 23:27:34", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-15 23:31:38", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-15 23:34:01", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-15 23:34:21", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-15 23:43:56", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-15 23:51:38", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-15 23:52:24", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-16 01:00:59", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-16 03:25:43", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-16 03:26:28", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-16 05:55:38", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-16 06:33:06", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-16 07:09:09", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-16 07:42:58", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-16 09:16:37", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-16 11:53:25", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-16 11:57:35", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-16 13:03:40", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-16 15:42:59", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-16 16:29:22", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-16 16:57:33", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-16 17:19:22", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-16 18:38:58", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-16 19:18:30", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-16 19:26:34", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-16 20:29:57", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-16 21:20:25", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-16 21:49:21", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-16 21:52:05", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-16 22:54:46", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-16 22:58:01", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-16 23:00:04", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-16 23:00:18", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-16 23:21:36", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-16 23:26:24", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-16 23:43:53", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-16 23:46:38", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-16 23:52:25", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-17 01:25:29", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-17 01:33:31", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-17 01:38:01", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 06:36:55", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-17 07:04:52", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-17 07:46:03", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-17 08:11:44", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-17 08:45:47", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 09:05:58", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-17 09:15:56", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-17 10:03:37", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-17 11:22:32", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-17 12:13:39", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-17 14:54:53", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 14:55:35", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-17 16:17:14", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-17 17:39:33", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 17:47:05", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-17 17:54:20", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-17 18:24:56", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-17 18:53:51", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-17 19:39:27", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 20:47:50", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-17 20:48:28", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 20:55:52", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-17 21:24:05", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-17 22:17:08", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 22:36:07", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-17 23:29:18", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-17 23:46:43", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-17 23:49:47", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-18 02:25:54", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-18 04:17:22", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-18 05:41:54", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-18 09:40:58", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-18 11:41:05", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-18 12:05:15", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-18 13:29:14", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-18 14:27:44", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-18 15:06:19", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-18 15:29:42", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-18 16:47:40", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-18 17:46:13", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-18 18:32:55", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-18 18:39:28", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-18 18:55:58", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-18 19:59:55", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-18 21:33:33", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-18 22:02:07", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-18 23:01:40", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-18 23:07:38", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-18 23:29:03", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-18 23:36:24", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-18 23:37:05", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-18 23:46:53", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-18 23:48:45", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-18 23:49:51", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-18 23:52:10", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-18 23:54:17", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-18 23:56:58", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-18 23:58:18", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-18 23:58:33", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-19 00:29:15", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-19 00:50:34", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-19 02:46:44", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-19 07:26:14", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-19 08:11:34", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-19 10:25:40", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-19 11:22:47", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-19 11:33:29", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-19 11:35:09", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-19 11:45:02", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-19 13:12:16", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-19 14:53:58", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-19 14:57:13", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-19 15:59:02", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-19 17:11:02", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-19 17:14:53", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-19 20:08:12", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-19 20:26:53", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-19 20:59:44", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-19 21:14:04", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-19 21:34:11", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-19 22:04:59", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-19 22:31:12", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-19 23:02:57", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-19 23:08:49", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-19 23:22:55", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-19 23:24:38", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-19 23:29:03", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-19 23:36:20", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-19 23:50:52", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-19 23:59:37", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-20 00:04:21", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-20 02:36:36", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-20 05:54:52", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-20 05:58:01", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-20 06:53:51", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-20 07:24:55", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-20 09:16:49", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-20 09:17:44", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-20 10:47:17", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-20 11:14:00", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-20 11:34:51", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-20 11:51:01", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-20 14:27:13", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-20 15:41:04", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-20 16:27:09", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-20 17:26:40", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-20 18:53:59", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-20 20:33:16", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-20 21:40:45", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-20 22:17:11", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-20 22:29:35", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-20 22:32:26", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-20 23:07:44", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-20 23:24:23", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-20 23:33:12", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-20 23:35:54", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-20 23:42:36", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-20 23:44:52", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-20 23:45:54", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-20 23:50:27", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-20 23:52:06", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-21 01:05:58", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-21 04:53:06", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-21 06:13:25", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-21 07:22:26", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-21 08:06:47", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-21 09:42:53", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-21 10:13:27", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-21 11:28:54", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-21 12:38:10", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-21 14:02:43", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-21 14:34:18", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-21 17:59:19", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-21 18:09:29", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-21 18:45:05", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-21 19:33:09", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-21 19:43:44", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-21 19:55:09", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-21 21:25:37", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-21 21:27:18", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-21 21:40:18", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-21 22:02:28", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-21 22:35:57", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-21 22:41:22", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-21 22:45:01", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-21 22:57:54", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-21 23:21:02", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-21 23:44:09", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-21 23:48:22", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-21 23:53:25", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-21 23:54:53", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-21 23:57:16", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-22 00:42:36", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-22 00:43:30", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-22 01:40:12", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-22 02:09:56", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-22 08:00:21", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-22 10:30:12", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-22 10:30:30", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-22 11:23:57", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-22 15:09:32", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-22 15:37:41", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-22 18:52:46", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-22 19:49:28", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-22 19:52:04", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-22 20:31:19", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-22 20:31:23", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-22 20:58:37", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-22 21:10:20", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-22 21:19:55", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-22 22:23:36", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-22 22:29:07", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-22 23:03:49", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-22 23:13:07", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-22 23:16:35", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-22 23:30:00", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-22 23:34:41", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-22 23:41:55", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-22 23:45:03", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-22 23:50:44", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-22 23:51:43", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-22 23:52:24", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-22 23:56:11", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-23 05:03:54", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-23 05:09:15", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-23 06:37:26", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-23 07:07:29", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-23 08:26:58", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-23 08:35:17", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-23 11:41:25", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-23 12:20:55", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-23 13:04:47", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-23 14:01:27", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-23 15:19:22", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-23 19:53:58", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-23 20:09:42", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-23 20:27:08", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-23 21:00:00", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-23 21:24:05", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-23 21:54:15", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-23 21:58:50", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-23 22:20:40", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-23 22:23:52", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-23 22:29:49", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-23 22:36:44", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-23 22:39:07", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-23 22:55:51", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-23 23:19:50", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-23 23:40:47", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-23 23:45:06", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-23 23:48:50", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-23 23:58:39", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-23 23:59:29", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-23 23:59:33", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-24 02:07:27", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-24 02:24:08", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-24 02:45:26", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-24 02:46:31", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-24 03:13:38", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-24 04:00:00", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-24 04:40:08", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-24 05:39:30", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-24 09:23:21", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-24 10:51:23", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-24 11:10:11", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-24 12:26:24", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-24 12:51:32", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-24 15:50:33", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-24 15:58:43", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-24 18:22:26", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-24 18:52:48", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-24 19:33:22", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-24 20:06:44", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-24 20:51:45", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-24 21:21:09", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-24 21:36:49", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-24 21:47:15", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-24 22:50:49", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-24 23:25:14", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-24 23:34:53", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-24 23:36:01", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-24 23:50:35", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-24 23:59:27", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-24 23:59:28", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-24 23:59:34", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-25 03:12:05", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-25 05:15:03", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-25 07:20:24", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-25 08:43:08", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-25 09:38:32", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-25 10:43:17", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-25 12:38:45", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-25 12:45:26", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-25 12:46:18", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-25 13:06:38", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-25 14:18:47", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-25 14:24:41", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-25 15:36:53", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-25 17:13:26", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-25 18:22:36", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-25 18:36:52", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-25 18:44:50", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-25 19:35:37", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-25 19:40:58", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-25 19:44:24", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-25 20:00:28", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-25 20:23:40", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-25 20:57:45", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-25 21:32:48", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-25 21:42:21", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-25 21:56:02", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-25 22:08:39", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-25 22:32:19", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-25 23:19:36", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-25 23:35:54", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-25 23:36:03", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-26 01:57:18", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-26 04:17:41", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-26 05:45:12", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-26 06:08:48", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-26 07:03:57", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-26 08:08:03", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-26 08:45:08", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-26 11:14:05", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-26 11:18:23", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-26 11:47:34", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-26 12:31:22", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-26 12:43:28", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-26 12:51:13", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-26 12:55:30", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-26 13:16:58", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-26 14:21:55", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-26 15:15:16", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-26 16:03:47", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-26 16:41:16", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-26 18:33:05", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-26 18:39:47", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-26 18:45:24", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-26 18:48:54", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-26 20:33:04", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-26 21:01:08", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-26 21:36:04", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-26 22:06:24", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-26 22:14:36", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-26 22:23:10", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-26 23:27:51", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-26 23:38:11", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-27 02:03:38", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-27 02:30:03", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-27 04:08:27", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-27 05:20:02", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-27 08:00:54", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-27 08:07:38", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-27 09:54:46", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-27 11:59:18", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-27 12:56:05", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-27 13:19:20", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-27 18:28:22", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-27 18:37:06", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-27 20:24:53", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-27 20:43:49", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-27 20:54:26", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-27 21:11:54", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-27 21:15:45", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-27 21:20:37", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-27 21:29:10", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-27 21:33:37", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-27 22:13:20", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-27 22:33:22", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-27 22:55:25", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-27 23:09:14", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-27 23:11:05", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-27 23:51:07", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-27 23:55:54", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-27 23:58:08", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-27 23:58:57", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-27 23:59:50", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-27 23:59:54", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-28 00:48:52", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-28 02:50:27", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-28 04:39:24", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-28 05:40:36", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-28 05:43:39", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-28 07:02:12", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-28 07:59:01", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-28 08:30:13", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-28 12:46:05", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-28 14:37:34", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-28 15:38:25", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-28 16:40:20", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-28 16:54:56", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-28 19:10:59", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Bulb", "device_name": "Store Room Light", "device_power_in_watts": 80, "operation_time": "2024-09-28 19:51:21", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-28 20:41:58", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-28 21:30:13", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-28 22:00:02", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-28 22:07:59", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-28 22:09:32", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-28 23:26:39", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-28 23:35:12", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-28 23:35:26", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-28 23:49:11", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-28 23:51:10", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-28 23:54:02", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-28 23:54:52", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-28 23:57:20", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-28 23:57:51", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-28 23:58:30", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-28 23:58:41", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-29 01:28:28", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Tube Light", "device_name": "Hall Light", "device_power_in_watts": 50, "operation_time": "2024-09-29 02:18:06", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-29 03:00:34", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-29 05:18:29", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-29 05:20:06", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-29 10:33:23", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-29 10:39:26", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-29 11:00:12", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-29 11:03:27", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Heater", "device_name": "Bath Heater", "device_power_in_watts": 200, "operation_time": "2024-09-29 11:07:37", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-29 12:02:47", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-29 12:11:20", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-29 12:57:45", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-29 14:38:44", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-29 15:04:33", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-29 15:34:49", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-29 16:14:42", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-29 16:19:58", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-29 17:49:38", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-29 18:58:43", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-29 19:14:42", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-29 20:08:19", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-29 21:24:36", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-29 21:32:15", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-29 21:54:26", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-29 21:59:51", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-29 23:06:46", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-29 23:28:35", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-29 23:49:42", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-29 23:56:31", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-29 23:57:23", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Vacuum Cleaner", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-30 00:30:19", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-30 02:38:15", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-30 04:24:09", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-30 05:00:29", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-30 06:34:40", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-30 09:42:03", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-30 11:45:03", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Air Cooler", "device_name": "Garage Air Cooler", "device_power_in_watts": 550, "operation_time": "2024-09-30 16:26:40", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Fan", "device_name": "Table Fan", "device_power_in_watts": 110, "operation_time": "2024-09-30 16:39:38", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-30 16:56:28", "change_of_status": "on"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-30 17:38:10", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-30 17:57:58", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Fan", "device_name": "Kitchen Fan", "device_power_in_watts": 100, "operation_time": "2024-09-30 18:10:47", "change_of_status": "on"}
+{"location_name": "Condominium", "device_type": "Stove", "device_name": "Electric Stove", "device_power_in_watts": 120, "operation_time": "2024-09-30 18:33:56", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-30 19:07:15", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-30 19:55:09", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Store Room Camera", "device_power_in_watts": 40, "operation_time": "2024-09-30 20:23:45", "change_of_status": "on"}
+{"location_name": "Showroom", "device_type": "Air Conditioner", "device_name": "Bedroom AC", "device_power_in_watts": 600, "operation_time": "2024-09-30 21:30:42", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-30 21:56:01", "change_of_status": "off"}
+{"location_name": "Condominium", "device_type": "Dryer", "device_name": "Hair Dryer", "device_power_in_watts": 95, "operation_time": "2024-09-30 23:04:56", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-30 23:11:13", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-30 23:21:09", "change_of_status": "off"}
+{"location_name": "Showroom", "device_type": "Security Camera", "device_name": "Main Area Camera ", "device_power_in_watts": 40, "operation_time": "2024-09-30 23:22:11", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-30 23:28:23", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-30 23:45:02", "change_of_status": "on"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-30 23:46:26", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-30 23:48:06", "change_of_status": "on"}
+{"location_name": "Town House", "device_type": "Bulb", "device_name": "Rest Room Light", "device_power_in_watts": 90, "operation_time": "2024-09-30 23:51:27", "change_of_status": "off"}
+{"location_name": "Town House", "device_type": "Fan", "device_name": "Ventilation Fan", "device_power_in_watts": 85, "operation_time": "2024-09-30 23:51:55", "change_of_status": "off"}
+{"location_name": "Chennai House", "device_type": "Television", "device_name": "Dining Area TV", "device_power_in_watts": 150, "operation_time": "2024-09-30 23:52:14", "change_of_status": "off"}
+{"location_name": "Beach House", "device_type": "Bulb", "device_name": "Bedroom Light", "device_power_in_watts": 60, "operation_time": "2024-09-30 23:58:03", "change_of_status": "off"}
